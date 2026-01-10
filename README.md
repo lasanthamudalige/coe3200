@@ -11,3 +11,4 @@ Ensure Python 3 is installed, then run:
 
 ```bash
 python hello.py
+```
